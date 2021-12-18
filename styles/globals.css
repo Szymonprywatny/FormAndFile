@@ -4,8 +4,6 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  background: #080e10;
-  color: white;
 }
 
 a {
@@ -21,7 +19,6 @@ img,
 button {
   width: 200px;
   height: 200px;
-  border-radius: 50%;
   cursor: pointer;
 }
 
@@ -31,6 +28,10 @@ button {
   justify-content: center;
   font-size: 18px;
   border: none;
-  background: #fef289;
-  color: #000;
+  background: black;
+  color: white;
+}
+h4 {
+  margin: 0;
+  padding: 0;
 }
